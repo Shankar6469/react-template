@@ -1,0 +1,46 @@
+.nav-menu{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   list-style: none;
+
+}
+
+.nav-link{
+    color: white;
+    margin: 0px 10px;
+    text-decoration: none;
+}
+
+.box{
+    background-color: aquamarine;
+}
+
+.nav-mobile{
+   list-style: none;
+   justify-content: center;
+   color: white;
+}
+
+.nav-mobile-link{
+    color: white;
+    margin: 0px 25px;
+    text-decoration: none;
+    font-size: 2rem;
+    margin-top: 10px;
+}
+
+
+.nav-link:hover{
+   color: goldenrod;
+ }
+
+.nav-mobile-tittle{
+    color: goldenrod;
+}
+
+.nav-mobile-link-item{
+    
+}
+
+

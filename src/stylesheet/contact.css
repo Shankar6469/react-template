@@ -1,0 +1,41 @@
+.body_background {
+    background-image: url('https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    
+  }
+  
+  .form-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-container form .MuiTextField-root {
+    margin-bottom: 20px;
+  }
+  
+  .form-container form .MuiButton-root {
+    align-self: center;
+  }
+
+  
+
